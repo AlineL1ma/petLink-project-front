@@ -1,0 +1,115 @@
+{
+    "id": "petlink",
+    "name": "PetLink",
+    "short_name": "PetLink",
+    "lang": "pt-BR",
+    "dir": "ltr",
+    "scope": "./",
+    "description": "Rastreamento de localização para animais via coleira",
+    "start_url": "/index.html",
+    "orientation": "portrait",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      { "src": "/AppImages/Leopoldo-icon/PWA-img/Leopoldo-512px.png", 
+        "sizes": "512x512",
+        "type": "image/png", 
+        "purpose": "any" }, 
+      
+      { "src": "/AppImages/Leopoldo-icon/PWA-img/Leopoldo-384px.png", 
+        "sizes": "384x384", 
+        "type": "image/png",
+        "purpose": "any" },   
+  
+      { "src": "/AppImages/Leopoldo-icon/PWA-img/Leopoldo-256px.png", 
+        "sizes": "256x256", 
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/Leopoldo-icon/PWA-img/Leopoldo-192px.png", 
+        "sizes": "192x192", 
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/Leopoldo-icon/PWA-img/Leopoldo-144px.png", 
+        "sizes": "144x144", 
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/Leopoldo-icon/PWA-img/Leopoldo-128px.png", 
+        "sizes": "128x128", 
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/Leopoldo-icon/PWA-img/Leopoldo-96px.png", 
+        "sizes": "96x96", 
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/Leopoldo-icon/PWA-img/Leopoldo-72px.png", 
+        "sizes": "72x72",
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/Leopoldo-icon/PWA-img/Leopoldo-48px.png", 
+        "sizes": "48x48",
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/Leopoldo-icon/PWA-img/Leopoldo-36px.png",
+        "sizes": "36x36", 
+        "type": "image/png",
+        "purpose": "any" },
+  
+      { "src": "/AppImages/PetLink-logo/PWA-img/logo-petlink-512px.png", 
+        "sizes": "512x512",
+        "type": "image/png", 
+        "purpose": "any" }, 
+      
+      { "src": "/AppImages/PetLink-logo/PWA-img/logo-petlink-384px.png", 
+        "sizes": "384x384", 
+        "type": "image/png",
+        "purpose": "any" },   
+  
+      { "src": "/AppImages/PetLink-logo/PWA-img/logo-petlink-256px.png", 
+        "sizes": "256x256", 
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/PetLink-logo/PWA-img/logo-petlink-192px.png", 
+        "sizes": "192x192", 
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/PetLink-logo/PWA-img/logo-petlink-144px.png", 
+        "sizes": "144x144", 
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/PetLink-logo/PWA-img/logo-petlink-128px.png", 
+        "sizes": "128x128", 
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/PetLink-logo/PWA-img/logo-petlink-96px.png", 
+        "sizes": "96x96", 
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/PetLink-logo/PWA-img/logo-petlink-72px.png", 
+        "sizes": "72x72",
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/PetLink-logo/PWA-img/logo-petlink-48px.png", 
+        "sizes": "48x48",
+        "type": "image/png",
+        "purpose": "any" },
+      
+      { "src": "/AppImages/PetLink-logo/PWA-img/logo-petlink-36px.png",
+        "sizes": "36x36", 
+        "type": "image/png",
+        "purpose": "any" }
+    ]
+  }
