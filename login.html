@@ -9,7 +9,7 @@
   <body>
     <div class="login-container">
       <h1>PetLink</h1>
-      <img src="../imgs/logo-petlink.png" alt="Logotipo PetLink" />
+      <img src="/frontend/imgs/logo-petlink.png" alt="Logotipo PetLink" />
       <form id="loginForm">
         <div class="login-form">
           <label for="email">E-mail:</label>
@@ -17,7 +17,7 @@
           <label for="senha">Senha:</label>
           <input type="password" id="senha" name="senha" required />
           <button type="submit" class="button-entrar">Entrar</button>
-          <p>Não possui uma conta? <a href="cadastre-se.html">Crie agora!</a></p>
+          <p>Não possui uma conta? <a href="/frontend/pages/cadastre-se.html">Crie agora!</a></p>
         </div>
       </form>
     </div>
@@ -35,7 +35,7 @@
             // Armazenar o token no localStorage
             localStorage.setItem('token', response.token);
             alert('Login bem-sucedido!');
-            window.location.href = 'tela-principal.html';
+            window.location.href = '/frontend/pages/tela-principal.html';
           } else {
             alert(response.message || 'Erro ao fazer login');
           }
